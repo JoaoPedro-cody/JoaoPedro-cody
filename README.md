@@ -15,7 +15,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 - 🔗 **Conecte-se comigo**:
   - [LinkedIn](https://www.linkedin.com/in/joao-dev-pedro/)
   - [Twitter](https://x.com/CodyDev22)
-  - [Portfólio](link-do-seu-portfolio)
 
 ## O que estou aprendendo?
 
