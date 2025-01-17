@@ -23,6 +23,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 - Melhores práticas de design de software.
 - Desenvolvimento de APIs e integração de sistemas.
 
+## Projetos
+
+Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo:
+
+1. **[Portifólio](https://github.com/JoaoPedro-cody/Cursohc.git)** - Um pequeno projeto de portifólio que fiz para estudar o basico de JavaScript|HTML|CSS
+
 ## Vamos conversar!
 
 Fique à vontade para abrir uma issue ou me enviar uma mensagem. Estou sempre aberto a colaborar e aprender com a comunidade!
