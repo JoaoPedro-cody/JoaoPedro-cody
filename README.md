@@ -7,7 +7,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 - 🎓 **Curso atual**: Análise e Desenvolvimento de Sistemas (Uninter)
 - 💻 **Tecnologias que estou aprendendo**:  JavaScript, HTML/CSS, Java.
   - [LinkedIn](https://www.linkedin.com/in/joao-dev-pedro/)
-  - [Twitter]([link-do-seu-twitter](https://x.com/CodyDev22))
+  - [Twitter](https://x.com/CodyDev22)
   - [Portfólio](link-do-seu-portfolio)
 
 ## O que estou aprendendo?
