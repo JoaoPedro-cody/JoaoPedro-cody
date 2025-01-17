@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou [Seu Nome] 👋
 
-<!--
-**JoaoPedro-cody/JoaoPedro-cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com foco em **Desenvolvimento de Software**. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades de programação. Estou interessado em desenvolvimento web, automação e boas práticas de codificação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Curso atual**: Análise e Desenvolvimento de Sistemas (Uninter)
+- 💻 **Tecnologias que estou aprendendo**:  JavaScript, HTML/CSS, Java.
+  - [LinkedIn](https://www.linkedin.com/in/joao-dev-pedro/)
+  - [Twitter]([link-do-seu-twitter](https://x.com/CodyDev22))
+  - [Portfólio](link-do-seu-portfolio)
+
+## O que estou aprendendo?
+
+- Como melhorar a performance de aplicações web.
+- Melhores práticas de design de software.
+- Desenvolvimento de APIs e integração de sistemas.
+
+## Vamos conversar!
+
+Fique à vontade para abrir uma issue ou me enviar uma mensagem. Estou sempre aberto a colaborar e aprender com a comunidade!
+
+---
+
