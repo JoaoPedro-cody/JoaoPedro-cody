@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou [João Pedro] 👋
 
 ## Sobre mim
 
