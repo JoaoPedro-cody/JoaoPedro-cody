@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
   <div>
   <a href="https://www.linkedin.com/in/joao-dev-pedro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://x.com/CodyDev22" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="mailto:Codyla2313@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:Codyla2313@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23D14836&label=seu_email@gmail.com" target="_blank"></a>
 
 </div>
 
