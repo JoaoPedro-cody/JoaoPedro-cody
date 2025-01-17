@@ -1,4 +1,4 @@
-# Olá, sou [João Pedro] 👋
+# Olá, sou João Pedro 👋
 
 ## Sobre mim
 
