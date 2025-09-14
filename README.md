@@ -14,14 +14,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  
-
 - 🔗 **Conecte-se comigo**:
   <div>
   <a href="https://www.linkedin.com/in/joao-dev-pedro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://x.com/CodyDev22" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:Codyla2313@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23D14836&label=Codyla2313@gmail.com" target="_blank"></a>
-
 </div>
 
 ## O que estou aprendendo?
@@ -34,11 +31,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 
 Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo:
 
-1. **[Portifólio](https://github.com/JoaoPedro-cody/Cursohc.git)** - Um pequeno projeto de portifólio que fiz para estudar o basico de JavaScript|HTML|CSS
+1. **[Portfólio](https://github.com/JoaoPedro-cody/Cursohc.git)** - Um pequeno projeto de portfólio que fiz para estudar o básico de JavaScript, HTML e CSS.  
+2. **[Task Tracker CLI](git@github.com:JoaoPedro-cody/Task-Tracker-CLI.git)** - Um aplicativo de linha de comando em Java 17 para gerenciar tarefas com persistência em JSON. Permite adicionar, atualizar, deletar, marcar tarefas como feitas ou em progresso e listar por status.
 
 ## Vamos conversar!
 
 Fique à vontade para abrir uma issue ou me enviar uma mensagem. Estou sempre aberto a colaborar e aprender com a comunidade!
-
----
-
