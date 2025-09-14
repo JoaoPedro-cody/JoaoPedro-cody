@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo:
 
 1. **[Portfólio](https://github.com/JoaoPedro-cody/Cursohc.git)** - Um pequeno projeto de portfólio que fiz para estudar o básico de JavaScript, HTML e CSS.  
-2. **[Task Tracker CLI](git@github.com:JoaoPedro-cody/Task-Tracker-CLI.git)** - Um aplicativo de linha de comando em Java 17 para gerenciar tarefas com persistência em JSON. Permite adicionar, atualizar, deletar, marcar tarefas como feitas ou em progresso e listar por status.
+2. **[Task Tracker CLI](https://github.com/JoaoPedro-cody/Task-Tracker-CLI)** - Um aplicativo de linha de comando em Java 17 para gerenciar tarefas com persistência em JSON. Permite adicionar, atualizar, deletar, marcar tarefas como feitas ou em progresso e listar por status.
 
 ## Vamos conversar!
 
