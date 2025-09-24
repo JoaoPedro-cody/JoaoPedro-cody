@@ -31,7 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
 
 Aqui estão alguns dos projetos que desenvolvi ou estou desenvolvendo:
 
-1. 1. **[Library CLI](https://github.com/JoaoPedro-cody/LibraryCli)** - Um aplicativo de linha de comando em Java 17 para gerenciamento de biblioteca. Permite adicionar, atualizar e remover livros e usuários, registrar empréstimos e devoluções, e listar livros por disponibilidade. Todos os dados são persistidos em arquivos JSON, garantindo simplicidade e portabilidade.
+1. **[Library CLI](https://github.com/JoaoPedro-cody/LibraryCli)** - Um aplicativo de linha de comando em Java 17 para gerenciamento de biblioteca. Permite adicionar, atualizar e remover livros e usuários, registrar empréstimos e devoluções, e listar livros por disponibilidade. Todos os dados são persistidos em arquivos JSON, garantindo simplicidade e portabilidade.
 2. **[Task Tracker CLI](https://github.com/JoaoPedro-cody/Task-Tracker-CLI)** - Um aplicativo de linha de comando em Java 17 para gerenciar tarefas com persistência em JSON. Permite adicionar, atualizar, deletar, marcar tarefas como feitas ou em progresso e listar por status.
 3. **[Conversor de moedas](https://github.com/JoaoPedro-cody/ConversorMoedas)** - Projeto simples de conversão de moedas desenvolvido em Java, utilizando uma API externa para obter as taxas de câmbio em tempo real.
 
