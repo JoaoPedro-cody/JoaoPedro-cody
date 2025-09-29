@@ -10,18 +10,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Uninter**, com 
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   
 
 - 🔗 **Conecte-se comigo**:
   <div>
   <a href="https://www.linkedin.com/in/joao-dev-pedro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/CodyDev22" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="mailto:Codyla2313@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23D14836&label=Codyla2313@gmail.com" target="_blank"></a>
+  <a href="mailto:2joao5pedro@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23D14836&label=2joao5pedro@gmail.com" target="_blank"></a>
 </div>
 
 ## O que estou aprendendo?
